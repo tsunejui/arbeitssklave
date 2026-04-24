@@ -23,10 +23,6 @@ Arbeitssklave connects to the tools you already use at work, gathers your daily 
 - Team leads who want to reduce the reporting friction across their team.
 - Anyone who has ever stared at an empty "what did you do yesterday?" box at 9:59 AM.
 
-## Why "Arbeitssklave"?
-
-*Arbeitssklave* is German for "work slave" — a tongue-in-cheek nod to the repetitive reporting grind this project aims to eliminate. Let the AI be the arbeitssklave, so you don't have to.
-
 ## Status
 
 Early-stage project. Architecture, integrations, and interfaces are actively being designed. Stay tuned.
